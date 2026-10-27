@@ -224,6 +224,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Webcmd](https://github.com/agentrhq/webcmd)** – Self-learning browser infrastructure CLI for coding agents; learns a site once, then reuses it as deterministic per-site commands.
 - **[skills-manager](https://github.com/shenysun/skills-manager)** – CLI-first agent skill hub (`npx skills-manager-cli`): one library under `~/.skills-manager`, conversation-driven manager skill, distribute to 70+ agents, tree-SHA updates, resident cost ledger, and `audit security --strict` CI gate.
 
+---
+
 ## App Builders
 
 - **[Bolt.new](https://bolt.new)** – Build, edit, and deploy full-stack web apps in the browser using natural language with one-click deployment.
